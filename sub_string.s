@@ -3,7 +3,7 @@
  .global         sub_string
  sub_string:
  
-         @ This function performs the sub_string operation on the following arguments:
+         @ This function performs the sub_string operation on the following arguments, written in Arm assembly.
          
          @ Initial Variable Locations
          @ r0: original string
