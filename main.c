@@ -2,7 +2,7 @@
 #include <stdio.h>
 
        /**
-       The main function for the substring call, written in c. sub_string is called from sub_string.s, which is written in ARM assembly. 
+       The main function for the substring call, written in C. sub_string is called from sub_string.s, which is written in ARM assembly. 
        **/ 
 
 int main() {
